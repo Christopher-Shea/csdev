@@ -6,7 +6,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <div>
       <Head>
-        <title>Meow</title>
+        <title>Hello</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <ThemeProvider>

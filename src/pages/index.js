@@ -5,13 +5,13 @@ export default function Home() {
     <Flex
       direction="column"
       align="center"
-      justify="center"
       h="100vh"
-      minH={550}
+      minH={600}
+      px={4}
       py={2}
       bg="blue.700"
     >
-      <Text fontSize="6xl" color="white" mb={4}>hello i am a tiger</Text>
+      <Text fontSize="6xl" color="white" mb={4} mt={8}>hello i am a tiger</Text>
       <Image
         w="50%"
         maxW={550}
