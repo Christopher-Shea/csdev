@@ -6,7 +6,7 @@ export default function Home() {
       direction="column"
       align="center"
       h="100vh"
-      minH={600}
+      minH={700}
       minW={500}
       px={4}
       py={2}
@@ -14,9 +14,9 @@ export default function Home() {
     >
       <Text fontSize="6xl" color="white" mb={4} mt={6}>hello i am a tiger</Text>
       <Image
-        w="50%"
-        maxW={550}
-        minW={400}
+        w="30%"
+        maxW={475}
+        minW={375}
         h="auto"
         src="/tiger_chris.png"
         rounded="full"
