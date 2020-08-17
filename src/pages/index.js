@@ -5,7 +5,7 @@ export default function Home() {
     <Flex
       direction="column"
       align="center"
-      h="100vh"qq
+      h="100vh"
       minH={600}
       minW={500}
       px={4}
